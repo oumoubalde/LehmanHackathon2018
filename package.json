@@ -1,0 +1,24 @@
+{
+  "name": "recognize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "window": "^4.2.5"
+  },
+  "dependencies": {
+    "es6": "0.0.7",
+    "fetch": "^1.1.0",
+    "isomorphic": "0.0.11",
+    "promise": "^8.0.2",
+    "speech-synthesis": "^0.3.2"
+  }
+}
